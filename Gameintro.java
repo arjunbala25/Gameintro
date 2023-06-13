@@ -14,7 +14,7 @@ public class GameIntro {
 
     // Create a random object to generate a random number between 0 and 100
     Random rand = new Random();
-    private int answer = rand.nextInt(0,101);
+    private int answer = rand.nextInt(101);
 
 
     // Constructor for the GameIntro class
